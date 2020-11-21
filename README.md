@@ -3,4 +3,5 @@
 ## Main Developer : [paw](https://github.com/mirivan)
 ___
 ### Screenshots:
-![image]("https://i.imgur.com/IARtt30.jpg")
+![BlackTerm](https://i.imgur.com/IrjSk4r.jpg)
+![MaterialHunter](https://i.imgur.com/IARtt30.jpg)
