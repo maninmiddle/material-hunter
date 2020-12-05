@@ -1,6 +1,5 @@
 # **Material Hunter** 
 
-## Main Developer : [paw](https://github.com/mirivan)
 ___
 ### Screenshots:
 ![BlackTerm](https://i.imgur.com/IrjSk4r.jpg)
